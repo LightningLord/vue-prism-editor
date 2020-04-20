@@ -146,3 +146,13 @@ inspired by [react-live](https://github.com/FormidableLabs/react-live).
 ## License
 
 MIT
+
+## Develop
+
+Make changes
+
+run `npm run build`
+
+push to master
+
+pull the latest: `npm install https://github.com/LightningLord/vue-prism-editor.git`
