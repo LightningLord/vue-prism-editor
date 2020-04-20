@@ -1,7 +1,6 @@
 import iterator from "dom-iterator";
 
 function position(el, pos) {
-  console.log("jason is awesome!");
   if (document.activeElement !== el) return;
   var selection = window.getSelection();
 
